@@ -1,0 +1,15 @@
+{
+  "name": "freelancer-scraper",
+  "version": "1.0.0",
+  "description": "it's a frelancer.in scraper script in nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Manish Gun",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^6.12.0",
+    "puppeteer": "^23.11.1"
+  }
+}
